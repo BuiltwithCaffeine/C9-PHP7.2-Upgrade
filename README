@@ -4,7 +4,7 @@ Quick and painless upgrade to PHP 7.2 for cloud9's development platform
 Instalation/Use
 Run the following commands from the terminal window in your Cloud 9 box
 
-wget https://raw.githubusercontent.com/imanseau/Cloud9-PHP7-Upgrade/master/cloud9-php7-upgrade.sh
+wget https://raw.githubusercontent.com/BuiltwithCaffeine/C9-PHP7.2-Upgrade/master/c9-php7.2-upgrade.sh
 sudo chmod +x c9-php7.2-upgrade.sh
 ./c9-php7.2-upgrade.sh
 The script will ask you if you want to upgrade to PHP7 enter y, and you'll be off to the races.
