@@ -39,6 +39,7 @@ then
     sudo apt-get install php7.2-zip -y
     sudo apt-get install php7.2-mysql -y
     sudo apt-get install php7.2-curl -y
+    sudo apt-get install php7.2-gd -y
     sudo service apache2 restart
     echo "Congragulations you have upgraded your dev box to PHP 7.2"
 fi
